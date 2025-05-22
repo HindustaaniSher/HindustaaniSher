@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ethical Hacking
 - 🌱 Currently learning Cyber Security 
 - 💞️ I’m looking to collaborate on some Cool Projects
-- 📫 My Handles are- @hindustaanisher
+- 📫 My Handle - @hindustaanisher
 
 <!---
 HindustaaniSher/HindustaaniSher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
