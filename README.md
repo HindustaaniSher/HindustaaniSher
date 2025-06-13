@@ -1,5 +1,5 @@
 - 👋 Hi! This is Amit Kumar Yadav
-- 👀 Ethical Hacking 
+- 👀 Ethical Hacking popping In
 - 🌱 Currently learning Cyber Security 
 - 💞️ I’m looking to collaborate on some Cool Projects
 - 📫 My Handle - @hindustaanisher
